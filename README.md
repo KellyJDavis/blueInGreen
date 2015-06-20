@@ -28,7 +28,7 @@ var goal = parser(lexer(goalText)).parseTerm();
 // Obtain the X variable of the goal
 var x = goal.args[0]; // variable X
 
-// Runs the query against the database of rules and print the results
+// Run the query against the database of rules and print the results
 for (var item of db.query(goal)) {
     print(item);
     print('value of X = ' + goal.match(item).get(x));
