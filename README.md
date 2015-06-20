@@ -1,6 +1,6 @@
 # blueInGreen
 
-A [Bower](http://bower.io/) packaged, Prolog-like logic programming language implemented in [ES6 JavaScript](https://people.mozilla.org/~jorendorff/es6-draft.html). The implementation is based off of the [curiosity-driven](https://github.com/curiosity-driven) [prolog-interpreter](https://github.com/curiosity-driven/prolog-interpreter).
+A [Bower](http://bower.io/) packaged, Prolog-like logic programming language implemented in [ES6 JavaScript](https://people.mozilla.org/~jorendorff/es6-draft.html).
 
 ## Quick Start
 
@@ -35,3 +35,7 @@ for (var item of db.query(goal)) {
 }
 </script>
 ```
+
+## Inspiration and Implementation
+
+The implementation is based off of the [curiosity-driven](https://github.com/curiosity-driven) [prolog-interpreter](https://github.com/curiosity-driven/prolog-interpreter).
