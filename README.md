@@ -38,4 +38,4 @@ for (var item of db.query(goal)) {
 
 ## Inspiration and Implementation
 
-The implementation is based off of the [curiosity-driven](https://github.com/curiosity-driven) [prolog-interpreter](https://github.com/curiosity-driven/prolog-interpreter).
+The repository's name [blueInGreen](https://github.com/kdavis-mozilla/blueInGreen) is inspired by the tune "[Blue In Green](https://soundcloud.com/clintashlock/blue-in-green)" by Bill Evans and Miles Davis. The implementation is based off of the [curiosity-driven](https://github.com/curiosity-driven) [prolog-interpreter](https://github.com/curiosity-driven/prolog-interpreter).
